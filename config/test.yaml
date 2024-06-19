@@ -1,0 +1,9 @@
+app:
+  port: 3001
+
+db:
+  host: localhost
+  port: 5432
+  username: postgres
+  password: password
+  database: country-authority-test

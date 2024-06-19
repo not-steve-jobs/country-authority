@@ -1,0 +1,15 @@
+app:
+  env: 'local'
+  plant: 'local'
+  serviceName: 'country-authority'
+  port: 3000
+
+swagger:
+  enabled: true
+
+db:
+  host: localhost
+  port: 5432
+  username: postgres
+  password: password
+  database: country-authority
